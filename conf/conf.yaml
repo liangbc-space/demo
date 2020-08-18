@@ -1,4 +1,4 @@
-port: 8080  #http监听服务端口，默认8080
+port: 8090  #http监听服务端口，默认8080
 default_page_size: 10  #分页单页数据条数，默认10
 jwt_secret: GCGFAetuHQDP3FCy  # jwt鉴权密码
 
